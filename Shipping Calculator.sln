@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shipping Calculator", "Shipping Calculator\Shipping Calculator.vcxproj", "{CBF8E27B-9167-47B3-9659-AB1FDFAAD73B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF8E27B-9167-47B3-9659-AB1FDFAAD73B}.Debug|x64.ActiveCfg = Debug|x64
+		{CBF8E27B-9167-47B3-9659-AB1FDFAAD73B}.Debug|x64.Build.0 = Debug|x64
+		{CBF8E27B-9167-47B3-9659-AB1FDFAAD73B}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBF8E27B-9167-47B3-9659-AB1FDFAAD73B}.Debug|x86.Build.0 = Debug|Win32
+		{CBF8E27B-9167-47B3-9659-AB1FDFAAD73B}.Release|x64.ActiveCfg = Release|x64
+		{CBF8E27B-9167-47B3-9659-AB1FDFAAD73B}.Release|x64.Build.0 = Release|x64
+		{CBF8E27B-9167-47B3-9659-AB1FDFAAD73B}.Release|x86.ActiveCfg = Release|Win32
+		{CBF8E27B-9167-47B3-9659-AB1FDFAAD73B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {573DB69F-3658-4E7A-B4CA-769751562401}
+	EndGlobalSection
+EndGlobal
