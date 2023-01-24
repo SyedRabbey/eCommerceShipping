@@ -1,0 +1,4 @@
+Your item is                     HEADPHONE
+Your shipping cost is                17
+You are shipping to                   CAN
+Your total shipping costs are         $317
